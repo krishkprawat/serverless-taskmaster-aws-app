@@ -1,6 +1,6 @@
-org: trainwithshubham
+org: kpuser
 app: testing-end-to-end
-service: serverless-taskmaster-aws-app
+service: serverless-app
 frameworkVersion: '3'
 
 provider:
