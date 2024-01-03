@@ -18,7 +18,7 @@ const kaamKhatamkaro = async (event) => {
 
   return {
     statusCode: 200,
-    body: JSON.stringify({msg:"Kaam Khatam Kar Diya"}),
+    body: JSON.stringify({msg:"Kaam finish Kar Diya"}),
     };
 };
 
