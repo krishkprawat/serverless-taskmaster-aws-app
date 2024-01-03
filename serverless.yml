@@ -1,6 +1,6 @@
 org: kpuser
-app: testing-end-to-end
-service: serverless-app
+app: lasthope
+service: kp-3-serverless-app
 frameworkVersion: '3'
 
 provider:
